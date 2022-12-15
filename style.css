@@ -87,3 +87,18 @@ header{
     margin-left: 4%;
     border-radius: 5px;
 }
+
+footer{
+    border-top: solid 2px #ffffff;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #68616184;
+    color: #6ab51f;
+}
+
+.fot{
+    text-decoration: none;
+    color: #ffffff;
+}
